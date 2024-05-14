@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "devDependencies": {
-  
+  "dependencies": {
+    "mongoose": "^8.3.4"
   }
 }
